@@ -1,12 +1,14 @@
 {
-  "name": "mc-api",
+  "name": "json-server-deploy",
   "version": "1.0.0",
-  "description": "",
+  "description": "Simple json database to deploy to the host of your choice",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
-  "keywords": [],
+  "keywords": [
+    "ninjakodtv, json-server,heroku, node, REST API"
+  ],
   "author": "Abraham Vega",
   "license": "ISC",
   "dependencies": {

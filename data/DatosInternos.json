@@ -1,0 +1,26 @@
+[
+  {
+      "Entidad":"Nacional",
+      "Afiliados":3989376,
+      "Comité Estatal":32,
+      "Distritos Federales":300,
+      "Distritos Locales":"--",
+      "Comites Municipales":"--",
+      "Secciones Cubiertas":"--",
+      "Avance":"30%",
+      "Status":"Bajo"
+
+  }, 
+  {
+       "Entidad":"Chihuahua",
+       "Afiliados":155918,
+       "Comité Estatal":1,
+       "Distritos Federales":9,
+       "Distritos Locales":22,
+       "Comites Municipales":4,
+       "Secciones Cubiertas":200,
+       "Avance":"10%",
+       "Status":"Bajo"
+
+   }
+]

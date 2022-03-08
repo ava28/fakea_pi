@@ -1,0 +1,47 @@
+[
+    {
+        "Nombre":"Jorge Álvarez Máynez",
+        "Posicición":"COORDINADOR DE LA BANCADA NARANJA EN LA CÁMARA",
+        "Comite":"CEN",
+        "Telefono":"---",
+        "Correo":"jalvarez@mc.com",
+        "Foto":"BancadaJorge.jpg",
+        "Estado":"Ciudad de México "
+    }, 
+    {
+        "Nombre":"Dante Delgado",
+        "Posicición":"COORDINADOR NACIONAL",
+        "Comite":"CEN",
+        "Telefono":"---",
+        "Correo":"ddelgado@mc.com",
+        "Foto":"BancadaJorge.jpg",
+        "Estado":"Ciudad de México "
+    }, 
+    {
+        "Nombre":"Clemente Castañeda",
+        "Posicición":"COORDINADOR DE LA BANCADA NARANJA EN EL SENADO",
+        "Comite":"CEN",
+        "Telefono":"---",
+        "Correo":"ccastañeda@mc.com",
+        "Foto":"ccastañeda.jpg",
+        "Estado":"Ciudad de México "
+    }, 
+    {
+        "Nombre":"Verónica Delgadillo",
+        "Posicición":"PRESIDENTA DEL CONSEJO NACIONAL",
+        "Comite":"CEN",
+        "Telefono":"---",
+        "Correo":"vdelgadillo@mc.com",
+        "Foto":"vdelgadillo.jpg",
+        "Estado":"Ciudad de México "
+    }, 
+    {
+         "Nombre":"Francisco Adrián Sánchez Villegas",
+         "Posicición":"COORDINADOR ESTATAL",
+         "Comite":"Coordinacion Chihuahua",
+         "Telefono":"614-111-1111",
+         "Correo":"fsanchez@mc.com",
+         "Foto":"ChihuahuaSanchez.jpg",
+         "Estado":"Chihuahua"
+     }
+ ]

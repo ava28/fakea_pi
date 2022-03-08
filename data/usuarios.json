@@ -1,0 +1,32 @@
+[
+  {
+      "id": 1,
+      "correo":"evisconti@mc.es",
+      "password":"123546789",
+      "username":"evisconti",
+      "Nombre":"Ernesto",
+      "Apellido":"Visconti",
+      "rol":1,
+      "Estado":"CEN"
+  },
+  {
+      "id": 2,
+      "correo":"usuario@mc.es",
+      "username":"user",
+      "password":"123456789",
+      "Nombre":"Usuario",
+      "Apellido":"Usuario",
+      "rol":3,
+      "Estado":"Chihuahua"
+  },
+  {
+      "id": 2,
+      "correo":"coordinadorch@mc.es",
+      "username":"coordinadorch",
+      "password":"123456789",
+      "Nombre":"Coordinadorch",
+      "Apellido":"Coordinadorch",
+      "rol":2,
+      "Estado":"Chihuahua"
+  }
+]

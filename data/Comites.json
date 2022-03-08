@@ -1,0 +1,29 @@
+[
+  {
+      "Nombre":"CEN",
+      "Circunscripciónes":1,
+      "Entidades":"--",
+      "Distritos Federales":9,
+      "Distritos Locales":"--",
+      "Municipios":2457,
+      "Secciones":3208,
+      "Población":3556574,
+      "Últimas Elecciones":"JUL - 18",
+      "Próximas Elecciones":2024,
+      "Mapa":"1JyoMAu2Y4jcS6EEtLoak8u3OkzmcPSbH&ehbc=2E312F"
+
+  },
+  {
+     "Nombre":"Chihuahua",
+      "Circunscripciónes":1,
+      "Entidades":33,
+      "Distritos Federales":8,
+      "Distritos Locales":22,
+      "Municipios":67,
+      "Secciones":3208,
+      "Población":3556574,
+      "Últimas Elecciones":"JUN - 21",
+      "Próximas Elecciones":2024,
+      "Mapa":"1L405tYWqI4zgBuapZ761GOtj81k8zJZm&ehbc=2E312F"
+ }
+]
