@@ -7,7 +7,8 @@
       "Distritos Locales":"--",
       "Comites Municipales":"--",
       "Secciones Cubiertas":"--",
-      "Avance":"30%",
+      "Poblacion Votante":123520000,
+      "Avance":"10%",
       "Status":"Bajo"
 
   }, 
@@ -19,6 +20,7 @@
        "Distritos Locales":22,
        "Comites Municipales":4,
        "Secciones Cubiertas":200,
+       "Poblacion Votante":2885919,
        "Avance":"10%",
        "Status":"Bajo"
 
