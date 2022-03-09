@@ -2,12 +2,12 @@
   {
       "Entidad":"CEN",
       "Afiliados":3989376,
-      "Comité Estatal":32,
+      "Comité_Estatal":32,
       "Distritos Federales":300,
-      "Distritos Locales":"--",
-      "Comites Municipales":"--",
-      "Secciones Cubiertas":"--",
-      "Poblacion Votante":123520000,
+      "Distritos_Locales":"--",
+      "Comites_Municipales":"--",
+      "Secciones_Cubiertas":"--",
+      "Poblacion_Votante":123520000,
       "Avance":"10%",
       "Status":"Bajo"
 
@@ -15,12 +15,12 @@
   {
        "Entidad":"Chihuahua",
        "Afiliados":155918,
-       "Comité Estatal":1,
-       "Distritos Federales":9,
-       "Distritos Locales":22,
-       "Comites Municipales":4,
-       "Secciones Cubiertas":200,
-       "Poblacion Votante":2885919,
+       "Comite_Estatal":1,
+       "Distritos_Federales":9,
+       "Distritos_Locales":22,
+       "Comites_Municipales":4,
+       "Secciones_Cubiertas":200,
+       "Poblacion_Votante":2885919,
        "Avance":"10%",
        "Status":"Bajo"
 
