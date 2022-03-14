@@ -1,19 +1,19 @@
 [
   {
       "id": 1,
-      "correo":"evisconti@mc.es",
-      "password":"123546789",
-      "username":"evisconti",
-      "Nombre":"Ernesto",
-      "Apellido":"Visconti",
+      "correo":"avega@outlook.es",
+      "password":"vega",
+      "username":"avega",
+      "Nombre":"Abraham",
+      "Apellido":"Vega",
       "rol":1,
       "Estado":"CEN"
   },
   {
       "id": 2,
-      "correo":"usuario@mc.es",
+      "correo":"usuario@outlook.es",
       "username":"user",
-      "password":"123456789",
+      "password":"vega",
       "Nombre":"Usuario",
       "Apellido":"Usuario",
       "rol":3,
@@ -21,9 +21,9 @@
   },
   {
       "id": 2,
-      "correo":"coordinadorch@mc.es",
+      "correo":"coordinadorch@outlook.es",
       "username":"coordinadorch",
-      "password":"123456789",
+      "password":"vega",
       "Nombre":"Coordinadorch",
       "Apellido":"Coordinadorch",
       "rol":2,
