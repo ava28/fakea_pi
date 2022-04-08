@@ -10,7 +10,17 @@
       "Estado":"CEN"
   },
   {
-      "id": 2,
+    "id": 2,
+    "correo":"evisconti@outlook.es",
+    "password":"123456789",
+    "username":"evisconti",
+    "Nombre":"Ernesto",
+    "Apellido":"Visconti",
+    "rol":1,
+    "Estado":"CEN"
+},
+  {
+      "id": 3,
       "correo":"usuario@outlook.es",
       "username":"user",
       "password":"vega",
@@ -20,7 +30,7 @@
       "Estado":"Chihuahua"
   },
   {
-      "id": 2,
+      "id": 4,
       "correo":"coordinadorch@outlook.es",
       "username":"coordinadorch",
       "password":"vega",
